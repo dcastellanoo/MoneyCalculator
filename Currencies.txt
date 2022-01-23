@@ -1,0 +1,6 @@
+usd,Dólar USA,$
+gbp,Libra Esterlina,£
+eur,Euro,€
+jpy,Yen Japonés,¥
+mxn,Peso Mexicano,$
+huf,Florín Húngaro,Ft
